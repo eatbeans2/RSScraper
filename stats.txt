@@ -1,0 +1,1 @@
+Time,Mean,Std Dev,TotalBoughtVal,TotalSoldVal,TotalBoughtQuant,TotalSoldQuant
